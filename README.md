@@ -28,6 +28,12 @@ Notes:
 - Uses basic postfix order of precendence
 - Basic parenteses syntax using `OPEN` and `CLOSE` values
 
+## Installation
+
+```sh
+python3 -m pip install magic-maths
+```
+
 Credits:
 
 - Inspired by and uses code from David Buchanan's [`magic-numbers` package](https://github.com/DavidBuchanan314/magic-numbers)

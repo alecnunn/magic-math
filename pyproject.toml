@@ -1,5 +1,5 @@
 [project]
-name = "magic-math"
+name = "magic-maths"
 version = "0.1.0"
 description = "magically import evaluated math expressions"
 readme = "README.md"
