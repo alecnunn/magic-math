@@ -1,6 +1,5 @@
 import sys
-import re
-from typing import Union, Tuple, List
+from typing import List
 from enum import Enum
 
 _orig_module = sys.modules[__name__]
